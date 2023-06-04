@@ -8,4 +8,4 @@ So, an adapter for square pegs are build. This adapter has an agregation with sq
 
 ## Architecture
 
-<img src="./../images/Architecture.png">
+<img src="./images/Architecture.png">
